@@ -1,6 +1,6 @@
 # HRM for nanoGPT
 
-It runs but NaN's out quickly.
+It runs but NaN's out quickly. If the hidden state is not updated then NaN outs are avoided.
 
 ```
 step 0: train loss 9793.7217, val loss 9671.3076

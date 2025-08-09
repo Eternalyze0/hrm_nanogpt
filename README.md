@@ -1,1 +1,3 @@
-# hrm_nanogpt
+# HRM for nanoGPT
+
+It runs but NaN's out quickly.
